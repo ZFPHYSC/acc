@@ -31,6 +31,7 @@ Course AI System enables users to create courses with embedded content that can 
 ## Project Structure
 
 ```
+There are a couple files missing here but you can see them in the uploaded files
 course-ai-system/
 ├── frontend/
 │   ├── src/
